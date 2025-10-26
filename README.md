@@ -104,14 +104,15 @@ dromos/
 ├── css/
 │   └── styles.css         # Estilos personalizados
 ├── js/
-│   ├── map.js             # Lógica de Leaflet
+│   ├── app-leaflet.js             # Lógica de Leaflet
 │   ├── auth.js            # Autenticación del cliente
-│   └── config.js          # Configuración del mapa
+│   └── config-map.js          # Configuración del mapa
 ├── index.php              # Página principal con mapa
 ├── login.php              # Formulario de acceso
 ├── register.php           # Registro de usuarios
+├── logout.php             # Cierre de sesión
 ├── config.php             # Configuración de BD y sesiones
-└── README.md
+├── README.md
 ```
 
 ## 🔌 API REST
