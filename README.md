@@ -234,7 +234,7 @@ Si encuentras un bug, por favor [abre un issue](https://github.com/tu-usuario/dr
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
+[![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-green)](LICENSE)
 
 ## 👥 Autores
 
