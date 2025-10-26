@@ -1,4 +1,4 @@
-[# 🏃 Dromos 🏃]
+# 🏃 Dromos 🏃
 
 [![PHP Version](https://img.shields.io/badge/PHP-8.1+-777BB4?logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -263,4 +263,4 @@ Si reutilizas este proyecto total o parcialmente (incluyendo forks, adaptaciones
 
 Hecho con ❤️ para la comunidad de exploradores urbanos
 
-</div>]
+</div>
