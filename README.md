@@ -1,4 +1,4 @@
-﻿[# 🗺️ Dromos
+[# 🗺️ Dromos
 
 [![PHP Version](https://img.shields.io/badge/PHP-8.1+-777BB4?logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -235,6 +235,15 @@ Si encuentras un bug, por favor [abre un issue](https://github.com/tu-usuario/dr
 ## 📄 Licencia
 
 [![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-green)](LICENSE)
+
+## 🪪 Política de atribución
+
+Si reutilizas este proyecto total o parcialmente (incluyendo forks, adaptaciones y publicaciones derivadas), debes:
+
+- Mencionar explícitamente a **Miguel Angel Muñiz Landeros** como autor original.
+- Incluir un enlace al repositorio original: <https://github.com/tu-usuario/dromos>.
+- Indicar que la obra original está licenciada bajo **CC BY-NC-SA 4.0** e incluir un enlace a la licencia.
+- Señalar cualquier modificación que realices respecto a la obra original.
 
 ## 👥 Autores
 
