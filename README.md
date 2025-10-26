@@ -2,11 +2,9 @@
 
 [![PHP Version](https://img.shields.io/badge/PHP-8.1+-777BB4?logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-green)](LICENSE)
 
 Aplicación web que gamifica la ocupación de territorio mediante recorridos GPS. Permite a los usuarios registrarse, capturar polígonos usando sus ubicaciones GPS, almacenar sus territorios conquistados y competir en un ranking global basado en el área total capturada.
-
-![Dromos Demo](https://via.placeholder.com/800x400?text=Demo+Screenshot)
 
 ## ✨ Características principales
 
@@ -32,7 +30,7 @@ Aplicación web que gamifica la ocupación de territorio mediante recorridos GPS
 1. **Clonar el repositorio**
 
 ```bash
-git clone https://github.com/tu-usuario/dromos.git
+git clone https://github.com/neokey2008/dromos.git
 cd dromos
 ```
 
@@ -225,7 +223,7 @@ Seguimos [Conventional Commits](https://www.conventionalcommits.org/):
 
 ## 🐛 Reportar problemas
 
-Si encuentras un bug, por favor [abre un issue](https://github.com/tu-usuario/dromos/issues) con:
+Si encuentras un bug, por favor [abre un issue](https://github.com/neokey2008/dromos/issues) con:
 - Descripción del problema
 - Pasos para reproducirlo
 - Comportamiento esperado vs actual
@@ -241,13 +239,13 @@ Si encuentras un bug, por favor [abre un issue](https://github.com/tu-usuario/dr
 Si reutilizas este proyecto total o parcialmente (incluyendo forks, adaptaciones y publicaciones derivadas), debes:
 
 - Mencionar explícitamente a **Miguel Angel Muñiz Landeros** como autor original.
-- Incluir un enlace al repositorio original: <https://github.com/tu-usuario/dromos>.
+- Incluir un enlace al repositorio original: <https://github.com/neokey2008/dromos>.
 - Indicar que la obra original está licenciada bajo **CC BY-NC-SA 4.0** e incluir un enlace a la licencia.
 - Señalar cualquier modificación que realices respecto a la obra original.
 
 ## 👥 Autores
 
-- **Tu Nombre** - *Desarrollo inicial* - [@tu-usuario](https://github.com/tu-usuario)
+- **Tu Nombre** - *Desarrollo inicial* - [@neokey2008](https://github.com/neokey2008)
 
 ## 🙏 Agradecimientos
 
@@ -259,9 +257,9 @@ Si reutilizas este proyecto total o parcialmente (incluyendo forks, adaptaciones
 
 <div align="center">
 
-**[Documentación](https://github.com/tu-usuario/dromos/wiki)** • 
-**[Reportar Bug](https://github.com/tu-usuario/dromos/issues)** • 
-**[Solicitar Feature](https://github.com/tu-usuario/dromos/issues)**
+**[Documentación](https://github.com/neokey2008/dromos/wiki)** • 
+**[Reportar Bug](https://github.com/neokey2008/dromos/issues)** • 
+**[Solicitar Feature](https://github.com/neokey2008/dromos/issues)**
 
 Hecho con ❤️ para la comunidad de exploradores urbanos
 
