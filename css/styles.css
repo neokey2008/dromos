@@ -1,0 +1,93 @@
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  user-select: none;
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+button:active {
+  transform: translateY(0);
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+#map {
+  height: 100%;
+  width: 100%;
+}
+
+/* Scrollbar personalizado para ranking */
+#ranking::-webkit-scrollbar {
+  width: 6px;
+}
+
+#ranking::-webkit-scrollbar-track {
+  background: rgba(55, 65, 81, 0.5);
+  border-radius: 3px;
+}
+
+#ranking::-webkit-scrollbar-thumb {
+  background: rgba(96, 165, 250, 0.5);
+  border-radius: 3px;
+}
+
+#ranking::-webkit-scrollbar-thumb:hover {
+  background: rgba(96, 165, 250, 0.7);
+}
+
+/* Animaciones para mensajes */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+#message > span {
+  display: inline-block;
+  animation: fadeIn 0.3s ease-out;
+}
+
+/* Mejorar inputs en móviles */
+input {
+  font-size: 16px; /* Previene zoom en iOS */
+}
+
+/* Estilos para el info panel */
+.absolute.top-5 {
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+/* Responsive */
+@media (max-width: 640px) {
+  header h1 {
+    font-size: 1rem;
+  }
+  
+  header p {
+    font-size: 0.7rem;
+  }
+  
+  #btnGuardar {
+    padding: 0.75rem 1.5rem;
+    font-size: 0.875rem;
+  }
+}
